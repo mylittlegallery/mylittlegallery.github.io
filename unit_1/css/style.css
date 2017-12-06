@@ -1,0 +1,8 @@
+style.css
+body {
+    background-color: teal;
+}
+
+h1, p {
+    color: orange;
+}
