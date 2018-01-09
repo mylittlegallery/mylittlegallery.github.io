@@ -4,7 +4,9 @@
 body {
 	background-color: #ffffff
 }
-h1
+h1 {
+	text-align: center;
+}
 p {
 	font-family: 'Roboto', sans-serif;
 	color: #020959;
