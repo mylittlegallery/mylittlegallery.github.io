@@ -3,14 +3,18 @@
 
 body {
 	background-color: #ffffff
+	font-family: 'Roboto', sans-serif;
 }
 h1 {
 	text-align: center;
 }
+p1 {font-family: 'Roboto', sans-serif;
+	color: #020959;
+	font-size: 25px;
+}
 p {
 	font-family: 'Roboto', sans-serif;
 	color: #020959;
-	font-style: italic;
 	font-size: 25px;
 	line-height: 38px;
 	margin: 2em;
